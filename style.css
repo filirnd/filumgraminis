@@ -1,13 +1,22 @@
 body {
     margin: 20px;
   }
-  
+
+.header {  
+    margin-bottom: 20px;
+    color: #bb3e03;
+}
 .title {  
     margin-bottom: 20px;
+    color:#005f73;
+}
+.subtitle {  
+    margin-bottom: 20px;
+    color: #0a9396;
 }
 .footer{
-    border-top: 1px solid black;
-    color: rgb(219, 106, 1);
+    border-top: 2px solid #005f73;
+    color: #bb3e03;
     margin-top: 80px;
 }
 .squares {  
