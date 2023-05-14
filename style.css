@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+  }
+  
+.title {  
+    width: 50%; /* imposta la larghezza del div */
+    margin: 0 auto; /* centra il div orizzontalmente */
+    margin-bottom: 20px;
+    text-align: left; /* allinea il testo a sinistra */
+
+}
+.footer{
+    border-top: 1px solid black;
+    color: rgb(219, 106, 1);
+    width: 50%; /* imposta la larghezza del div */
+    margin: 0 auto; /* centra il div orizzontalmente */
+    margin-top: 80px;
+
+    text-align: left; /* allinea il testo a sinistra */
+}
+.squares {  
+    width: 50%; /* imposta la larghezza del div */
+    margin: 0 auto; /* centra il div orizzontalmente */
+    margin-top: 60px;
+    margin-bottom: 20px;
+    text-align: left; /* allinea il testo a sinistra */
+
+}
